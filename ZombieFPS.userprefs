@@ -1,0 +1,30 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\WeaponController.cs">
+    <Files>
+      <File FileName="Assets\DayCycle.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\GunDamage.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\EnemyScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\CrossAnimate.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\GunFire.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\GunFireSMG.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\GlobalAmmo.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\SMG_Reload.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\HandgunReload.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\WeaponController.cs" Line="54" Column="28" />
+      <File FileName="Assets\scripts\PickUpPistol.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\PickupSmg.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\PlayerCasting.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\ZombieFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Characters\ThirdPersonCharacter\Scripts\AICharacterControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\GlobalHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\MainMenu.cs" Line="9" Column="28" />
+      <File FileName="Assets\Standard Assets\Characters\ThirdPersonCharacter\Scripts\ThirdPersonCharacter.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Characters\ThirdPersonCharacter\Scripts\ThirdPersonUserControl.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
